@@ -1,0 +1,9 @@
+git remote add origin https://github.com/prema030/edunet.git
+git branch -M main
+git push -u origin main
+
+
+
+
+
+
